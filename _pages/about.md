@@ -44,7 +44,7 @@ I am currently seeking internship opportunities for Summer 2026. Feel free to re
 
 - **From Prototype to Nationwide Deployment: A 5-Year Retrospect of a WiFi-Based Outdoor Localization System**  
   Fusang Zhang, Jiazhi Ni, **Chang Su**, Junqi Ma, Beihong Jin, Daqing Zhang, Qiang Huang, Xin Li, Chang Liu, Jie Xiong, Hongbin Luo.  
-  Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp**), Vol. 10, No. 1
+  Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp**), Vol. 10, No. 1  
   [[PDF]](https://doi.org/10.1145/3790112)
 
 - **Human Mesh Recovery from Partial Point Cloud without Human Annotations**  
