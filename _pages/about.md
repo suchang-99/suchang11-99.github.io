@@ -50,7 +50,8 @@ I am currently seeking internship opportunities for Summer 2026. Feel free to re
 - **Human Mesh Recovery from Partial Point Cloud without Human Annotations**  
   **Chang Su**, Beihong Jin, Fusang Zhang, Siheng Li, Zhi Wang.  
   IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2026  
-
+  [[PDF]](https://ieeexplore.ieee.org/abstract/document/11463875)
+  
 - **Self-Supervised Human Mesh Recovery from Partial Point Cloud via a Self-Improving Loop**  
   **Chang Su**, Beihong Jin, Fusang Zhang, Siheng Li, Zhi Wang.  
   The 33rd ACM International Conference on Multimedia (**ACM MM**), 2025  
