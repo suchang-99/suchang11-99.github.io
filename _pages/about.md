@@ -76,7 +76,7 @@ I am currently seeking internship opportunities for Summer 2026. Feel free to re
 - **Reviewer**: ACM MM, BMVC
 
 ## <span id="award">Awards and Honors</span>
-<!--- [2023] Huawei 1st Wi-Fi Sensing Competition, Detection \& Localization Track, Third Prize (CNY 20,000)-->
+- [2023] Huawei 1st Wi-Fi Sensing Competition, Detection \& Localization Track, Third Prize (CNY 20,000)
 - [2023] The International Conference on Indoor Positioning and Indoor Navigation Competition Track 7, Champion
 - [2022] The International Conference on Indoor Positioning and Indoor Navigation Competition Track 7 & Track 8, Champion
 - [2021] The International Conference on Indoor Positioning and Indoor Navigation Competition Track 7, Champion
